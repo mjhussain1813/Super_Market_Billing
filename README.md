@@ -1,10 +1,10 @@
 # Super_Market_Billing
 Super Market billing system using C++
 
-Steps to run ----
-1.Compile the code in C++ compiler
-2.Create Admin data according your need .
-3.Create products and do many more operations in UI
+####Steps to run ----
+####1.Compile the code in C++ compiler
+####2.Create Admin data according your need .
+####3.Create products and do many more operations in UI
 
 
 
